@@ -1,7 +1,7 @@
 
 This repository contains Jupyter Notebooks for exploring and working with NumPy.
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Ensure you have Python installed.
 2. Activate your virtual environment (if you are using one):
